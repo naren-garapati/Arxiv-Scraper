@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+Requests==2.32.3
+twython==3.9.1
+ujson==5.10.0
